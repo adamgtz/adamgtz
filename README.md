@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adamgtz
+- 👋 Hi, I’m Adam Gutierrez
 - 👀 I’m interested in becoming a Data Analyst. Among my many interests, I am interested in the automotive industry, big tech, 
     and ultimately anywhere I feel I am making a positive difference. 
 - 🌱 I’m currently learning Python, I have experience using C++, and also use other forms of data visualization such as Tableau, Power BI, and Excel. 
